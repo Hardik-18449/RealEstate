@@ -1,1 +1,3 @@
-node_modules/
+git config --global user.name "Mohit Kumawat"
+git config --global user.email "mohit.kumawat@gmail.com"
+
