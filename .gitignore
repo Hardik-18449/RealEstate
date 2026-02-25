@@ -1,0 +1,18 @@
+# Node modules (both frontend & backend)
+node_modules/
+
+# Backend uploads folder
+server/uploads/
+
+# Frontend build files
+Client/build/
+
+# Environment variables
+.env
+Client/.env
+Server/.env
+
+Server/Config
+
+
+
